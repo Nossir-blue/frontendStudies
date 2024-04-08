@@ -1,0 +1,79 @@
+p{
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.tahoma{
+    font-family: Tahoma;
+    margin-bottom: 20px;
+    
+}
+.normal{
+    margin-bottom: 6px;
+}
+.red-italic{
+    font-weight: lighter;
+    font-size: 14px;
+    color: red;
+    font-style: italic;
+}
+.title{
+    font-family: verdana;
+    margin-bottom: 4px;
+    font-size: 18px;
+}
+.label{
+    font-family: verdana;
+    font-weight: lighter;
+    color: rgb(96, 96, 96);
+    font-size: 16px;
+    margin-bottom: 18px;
+}
+.description{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 14px;
+    width: 260px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.get-started{
+    background-color: rgb(9, 99, 9);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 16px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.get-started:hover{
+    background-color: rgb(16, 65, 16);
+}
+.get-started:active{
+    background-color: rgba(16, 65, 16, 0.842);
+}
+.title2{
+    text-align: center;
+    margin-bottom: 14px;
+}
+.normale{
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 14px;
+}
+.link{
+    font-size: 12px;
+    font-weight: normal;
+    color: blue;
+    cursor: pointer;
+    text-align: center;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.link:active{
+    color: orangered;
+}
