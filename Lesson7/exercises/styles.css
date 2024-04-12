@@ -16,3 +16,59 @@ img{
     width: 150px;
     border-radius: 80px;
 }
+.search-bar{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+}
+.google-search{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 200px;
+    border: none;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.473);
+    border-radius: 20px;
+}
+.email{
+    font-family: arial;
+    color: rgb(96, 96, 96);
+    font-size: 11px;
+}
+.linkedin{
+    padding:4px 50px;
+}
+.agree{
+    font-family: arial;
+    color: rgb(96, 96, 96);
+    font-size: 11px;
+}
+.Join{
+    font-family: arial;
+    border:none;
+    background-color: rgb(48, 114, 212);
+    color: #F5F5F5;
+    padding: 10px 100px;
+    border-radius: 25px;
+    cursor:pointer;
+    transition: background-color 0.15s;
+}
+.Join:hover{
+    background-color: rgba(48, 113, 212, 0.884);;
+}
+.Join:active{
+    background-color: rgb(24, 70, 139);
+}
+.me{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    display:inline
+}
+.twitter{
+    border:none;
+    padding: 7px 30px;
+}
