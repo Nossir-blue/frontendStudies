@@ -1,0 +1,35 @@
+/*body{
+    font-family: verdana;
+    text-align: center;
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.myLabels{
+    font-size: 3em;
+}
+*/
+body{
+    background-color: rgb(27, 27, 27);
+    font-family: verdana;
+    font-size: 2em;
+    color: #f5f5f5;
+}
+#mySubmit{
+    font-size: 1em;
+    padding: 8px 10px;
+    border: none;
+    background-color: #b00b69;
+    color:#f5f5f5;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+#mySubmit:hover{
+    background-color: #d1cc69;
+}
+#mySubmit:active{
+    background-color: #420d1c;
+}
